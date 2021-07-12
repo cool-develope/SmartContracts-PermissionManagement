@@ -1,0 +1,11 @@
+{
+    "name": "permission-management",
+    "version": "0.0.1",
+    "engines": {
+        "node": "14.16.x",
+        "npm": "6.14.x"
+    },
+    "devDependencies": {
+        "truffle": "^5.4.0"
+    }
+}
